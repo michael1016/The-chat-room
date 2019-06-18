@@ -1,0 +1,1 @@
+ptint("Tom work hard")
